@@ -4,6 +4,7 @@ from datetime import datetime
 
 # Streamlit UI
 st.title("Weather and Time Viewer")
+st.write("here is the github URL: https://github.com/pleabargain/streamlit-weather")
 st.write("Enter your [WeatherAPI](https://www.weatherapi.com/) key and location to fetch the weather and time.")
 
 # Input for API key

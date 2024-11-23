@@ -18,3 +18,6 @@ A Streamlit web application that displays real-time weather information and loca
 ## Installation
 
 1. Clone this repository:
+https://github.com/pleabargain/streamlit-weather
+
+Have fun!
